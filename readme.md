@@ -1,4 +1,4 @@
-# Indian Startup Funding Project
+# Indian Startup Funding Project - Sydney Group
 To analyze the 2018 – 2021 Indian Startup funding dataset and provide an in-depth pattern analysis on startup establishment in India.
 
 ## Summary
