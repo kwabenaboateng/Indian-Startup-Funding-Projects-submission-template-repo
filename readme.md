@@ -1,10 +1,11 @@
 # CA-Projects-template-submission-repo
-*short project description*
+*In this project, I will be dealing with Time-Series forecasting and I will build a model to predict the unit sales for thousands of items sold at different Favorita stores and provide answers to some important questions.*
+
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
+| LP2 or P# | Time Series Regression |  [Best article of the world](/) | [Best app of the world](/) |
 
 ## Project Description
 ...
@@ -16,5 +17,4 @@
 ...
 
 ## Author
-...
-
+FREDRICK KWABENA BOATENG
