@@ -1,20 +1,20 @@
 # CA-Projects-template-submission-repo
-*In this project, I will be dealing with Time-Series forecasting and I will build a model to predict the unit sales for thousands of items sold at different Favorita stores and provide answers to some important questions.*
-
+*short project description*
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 or P# | Time Series Regression |  [Best article of the world](/) | [Best app of the world](/) |
+| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
 
 ## Project Description
-...
+To analyze the 2018 – 2021 Indian Startup funding dataset and provide an in-depth pattern analysis on startup establishment in India.
 
 ## Setup
-...
+
 
 ## App Execution
-...
+Data Analysis and EDA        - Jupyter Notebook <br>
+Visualization and Deployment - PowerBI
 
 ## Author
 FREDRICK KWABENA BOATENG
