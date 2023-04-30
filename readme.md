@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
+| LP2 or P# | TIME SERIES REGRESSION |  [Best article of the world](/) | [Best app of the world](/) |
 
 ## Project Description
 
